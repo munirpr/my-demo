@@ -1,5 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" ?>
 <Response>
-<say voice="woman">
-Hi this is praveen
-</say>
+   <Say>Hello World</Say>
 </Response>
